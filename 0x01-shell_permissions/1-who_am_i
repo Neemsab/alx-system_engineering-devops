@@ -1,2 +1,2 @@
-#!/usr/bin/ env bash 
-id -u -n 
+#!/bin/bash
+id -un 
