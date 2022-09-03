@@ -1,2 +1,2 @@
-#!/bin/dash 
-id -u -n
+#!/bin/bash 
+id -u -n 
